@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\timba\desktop\lecture 6 - 8 - more objects - 3 - two objects diff shading\program1\main.cpp(364): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+  Program1.vcxproj -> C:\Users\timba\Desktop\Lecture 6 - 8 - More objects - 3 - Two objects diff shading\Debug\Program1.exe
